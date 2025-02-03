@@ -1,0 +1,8 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "main": "node.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
