@@ -3,7 +3,7 @@ const axios = require("axios");
 
 const app = express();
 const PORT = 3000;  // Change to any port you want
-const API_KEY = "your_secret_api_key"; // Replace with your own API key
+const API_KEY = "ev4x"; // Replace with your own API key
 
 app.get("/check_banned", async (req, res) => {
     const { key, uid } = req.query;
